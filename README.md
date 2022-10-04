@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moeez Hayder</h1>
 <h3 align="center">A passionate MERN Stack Developer from Pakistan</h3>
+<img align="right" src="https://miro.medium.com/max/1100/0*7Q3yvSIv_t0ioJ-Z.gif" alt="gift">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moeez37&label=Profile%20views&color=0e75b6&style=flat" alt="moeez37" /> </p>
 
