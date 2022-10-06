@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moeez Hayder</h1>
 <h3 align="center">A passionate MERN Stack Developer from Pakistan</h3>
-<img align="right" src="https://miro.medium.com/max/1100/0*7Q3yvSIv_t0ioJ-Z.gif" alt="gift">
+<img align="right" src="https://miro.medium.com/max/1100/0*7Q3yvSIv_t0ioJ-Z.gif" length="300" width="300" alt="gift">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moeez37&label=Profile%20views&color=0e75b6&style=flat" alt="moeez37" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on [CMS](https://github.com/Moeez37/CMS)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Moeez37](https://github.com/Moeez37)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/Moeez37">Click</a>
 
 - 💬 Ask me about **react js**
 
