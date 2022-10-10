@@ -1,3 +1,4 @@
+<div style="background-color:#FFFF00">
 <h1 align="center">Hi 👋, I'm Moeez Hayder</h1>
 <h3 align="center">A passionate MERN Stack Developer from Pakistan</h3>
 <img align="right" src="https://miro.medium.com/max/1100/0*7Q3yvSIv_t0ioJ-Z.gif" length="300" width="300" alt="gift">
@@ -32,3 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moeez37&show_icons=true&locale=en" alt="moeez37" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moeez37&" alt="moeez37" /></p>
+</div>
