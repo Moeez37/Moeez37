@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moeez37&label=Profile%20views&color=0e75b6&style=flat" alt="moeez37" /> </p>
 
-- 🔭 I’m currently working on **DS2 VPN**
+- 🔭 I’m currently working on **SMS (School Managment System)**
 
 - 🌱 I’m currently learning **NODE js**
 
